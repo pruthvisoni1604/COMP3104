@@ -1,0 +1,21 @@
+{
+    "name": "COMP3104",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Warning: no test created yet\""
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pruthvisoni1604/COMP3104.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pruthvisoni1604/COMP3104/issues"
+    },
+    "homepage": "https://github.com/pruthvisoni1604/COMP3104#readme"
+}
